@@ -44,6 +44,7 @@ lint/reports/
 # Log Files
 *.log
 
+
 # Android Studio Navigation editor temp files
 .navigation/
 
